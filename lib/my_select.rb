@@ -9,5 +9,4 @@ end
   count+=1
 end
 newArray
-
-
+end
