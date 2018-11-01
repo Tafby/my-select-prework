@@ -8,6 +8,6 @@ while count < array.size
 end
   count+=1
 end
-result
+newArray
 
 
